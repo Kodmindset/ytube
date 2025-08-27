@@ -1,4 +1,2 @@
-streamlit
-yt-dlp
-"streamlit==1.38.0
-yt-dlp==2025.1.15"
+streamlit==1.38.0
+yt-dlp==2025.1.15
